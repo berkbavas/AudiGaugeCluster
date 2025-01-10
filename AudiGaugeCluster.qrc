@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/Main.qml</file>
+        <file>Resources/Fonts/Teko-Bold.ttf</file>
+        <file>Resources/Fonts/Teko-Light.ttf</file>
+        <file>Resources/Fonts/Teko-Medium.ttf</file>
+        <file>Resources/Fonts/Teko-Regular.ttf</file>
+        <file>Resources/Fonts/Teko-SemiBold.ttf</file>
+        <file>Qml/Gauges/Tachometer.qml</file>
+        <file>Qml/Gauges/Speedometer.qml</file>
+        <file>Qml/Util/GoodInnerShadow.qml</file>
+    </qresource>
+</RCC>
