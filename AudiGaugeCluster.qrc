@@ -9,5 +9,6 @@
         <file>Qml/Gauges/Tachometer.qml</file>
         <file>Qml/Gauges/Speedometer.qml</file>
         <file>Qml/Util/GoodInnerShadow.qml</file>
+        <file>Qml/Gauges/Background.qml</file>
     </qresource>
 </RCC>

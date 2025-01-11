@@ -29,14 +29,14 @@ Window {
 
             Tachometer {
                 value: drivingData.throttle
-                width: 360
-                height: 360
+                width: 500
+                height: 500
             }
 
             Speedometer {
                 value: drivingData.speed
-                width: 360
-                height: 360
+                width: 500
+                height: 500
             }
         }
     }
